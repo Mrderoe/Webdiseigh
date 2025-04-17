@@ -1,0 +1,18 @@
+section{
+    display: flex;
+    position: relative;
+    height: 100vh;
+}
+.main-block, .about-block, .skills-block, .works-block, .comments-block{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 70vh;
+}
+.main-block{
+    display: flex;
+    flex-direction: column;
+}
+.main-title{
+    
+}
